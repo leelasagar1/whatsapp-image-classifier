@@ -3,7 +3,7 @@
 
 ## Overview
 
-The WhatsApp Image Classifier is a powerful neural network model designed to classify images shared on WhatsApp. This project leverages the vast amount of image data gathered from WhatsApp groups and conversations to train the model using transfer learning techniques. The goal is to accurately categorize images into different classes, making it easier for users to organize and search their media.
+The WhatsApp Image Classifier is a convolutional neural network model designed to classify images shared on WhatsApp. This project leverages the vast amount of image data gathered from WhatsApp groups and conversations to train the model using transfer learning techniques. The goal is to accurately categorize images into different classes, making it easier for users to organize and search their media.
 
 
 ## How it Works
